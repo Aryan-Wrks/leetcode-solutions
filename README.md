@@ -21,4 +21,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0018-4sum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
