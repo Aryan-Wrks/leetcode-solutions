@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,11 +19,13 @@
 | ------- |
 | [0015-3sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Database
 |  |
 | ------- |
@@ -35,4 +38,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
