@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -27,12 +28,14 @@
 | [0018-4sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Database
 |  |
