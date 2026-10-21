@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
