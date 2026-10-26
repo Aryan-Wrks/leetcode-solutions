@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
