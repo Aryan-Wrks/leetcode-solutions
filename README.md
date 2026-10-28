@@ -132,4 +132,16 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
