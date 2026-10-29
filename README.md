@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -128,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -136,6 +138,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
