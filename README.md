@@ -27,6 +27,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0013-roman-to-integer](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
