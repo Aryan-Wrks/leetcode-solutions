@@ -1,19 +1,14 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int left = 0, zeros = 0, best = 0;
-
+        int left = 0;
         for (int right = 0; right < nums.size(); right++) {
-            if (nums[right] == 0) zeros++;
-
-            // Too many zeros: shrink window from the left
-            while (zeros > k) {
-                if (nums[left] == 0) zeros--;
+            if (nums[right] == 0) k--;      // use one flip
+            if (k < 0) {                    // window invalid: slide, don't shrink
+                if (nums[left] == 0) k++;   // give the flip back
                 left++;
             }
-
-            best = max(best, right - left + 1);
         }
-        return best;
+        return nums.size() - left;
     }
 };
