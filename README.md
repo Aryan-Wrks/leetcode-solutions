@@ -32,6 +32,7 @@
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -158,6 +159,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -180,5 +182,6 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
