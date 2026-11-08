@@ -20,6 +20,7 @@ public:
                 cnt1--, cnt2--;
             }
         }
+        // HERE WE MANUALLY CHECK THE ITERATIONS.
         vector<int>ls;
         cnt1=0, cnt2=0;
         for ( int i=0; i<nums.size(); i++){
