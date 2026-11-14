@@ -22,6 +22,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -190,4 +194,9 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
