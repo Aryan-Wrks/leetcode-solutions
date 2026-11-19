@@ -77,6 +77,7 @@
 | [1075-project-employees-i](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1280-students-and-examinations) |
