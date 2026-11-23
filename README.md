@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -130,6 +131,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-Wrks/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
